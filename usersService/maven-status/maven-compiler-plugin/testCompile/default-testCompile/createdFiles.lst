@@ -1,0 +1,3 @@
+com\quest\vms\service\UserServiceTest.class
+com\quest\vms\VmsUsersMicroserviceApplicationTests.class
+com\quest\vms\controller\UserControllerTest.class
