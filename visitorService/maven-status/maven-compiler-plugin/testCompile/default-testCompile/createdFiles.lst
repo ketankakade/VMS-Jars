@@ -1,3 +1,7 @@
-com\quest\vms\service\VisitorServiceTest.class
-com\quest\vms\controller\VisitorControllerTest.class
 com\quest\vms\VmsQuestApplicationTests.class
+com\quest\vms\controller\VisitorControllerTest.class
+com\quest\vms\parameterizedtests\VisitorTest.class
+com\quest\vms\dto\MockRestDTO.class
+com\quest\vms\utils\TestType.class
+com\quest\vms\service\VisitorServiceTest.class
+com\quest\vms\dto\JUnitInputDTO.class

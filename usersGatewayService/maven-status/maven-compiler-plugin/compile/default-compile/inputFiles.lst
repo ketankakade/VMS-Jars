@@ -1,3 +1,4 @@
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\EmployeeRecordsDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\KioskDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service\GatewayService.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\VmsUsersGatewayMicroserviceApplication.java
@@ -9,6 +10,7 @@ D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\excepti
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\exception\ServiceException.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\utils\GenericResponse.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\controller\GatewayController.java
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\TempAccessDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\utils\ErrorCodes.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service\KioskGatewayServiceImpl.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service\KioskGatewayService.java

@@ -4,6 +4,7 @@ com\quest\vms\exception\ServiceException.class
 com\quest\vms\controller\KioskGatewayController.class
 com\quest\vms\service\KioskGatewayServiceImpl.class
 com\quest\vms\dto\KioskDTO$KioskDTOBuilder.class
+com\quest\vms\dto\TempAccessDTO.class
 com\quest\vms\exception\InternalServerError.class
 com\quest\vms\VmsUsersGatewayMicroserviceApplication.class
 com\quest\vms\common\utils\VmsConstants.class
@@ -14,6 +15,9 @@ com\quest\vms\common\utils\GenericResponse$GenericResponseBuilder.class
 com\quest\vms\exception\RestExceptionHandler.class
 com\quest\vms\service\GatewayServiceImpl.class
 com\quest\vms\dto\KioskDTO.class
+com\quest\vms\dto\TempAccessDTO$TempAccessDTOBuilder.class
 com\quest\vms\dto\UserDTO.class
+com\quest\vms\dto\EmployeeRecordsDTO$EmployeeRecordsDTOBuilder.class
+com\quest\vms\dto\EmployeeRecordsDTO.class
 com\quest\vms\dto\UserDTO$UserDTOBuilder.class
 com\quest\vms\service\GatewayService.class

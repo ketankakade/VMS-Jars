@@ -1,3 +1,5 @@
-D:\VMS-Development\VMS-Users-Service\src\test\java\com\quest\vms\controller\UserControllerTest.java
+D:\VMS-Development\VMS-Users-Service\src\test\java\com\quest\vms\utils\TestType.java
 D:\VMS-Development\VMS-Users-Service\src\test\java\com\quest\vms\VmsUsersMicroserviceApplicationTests.java
-D:\VMS-Development\VMS-Users-Service\src\test\java\com\quest\vms\service\UserServiceTest.java
+D:\VMS-Development\VMS-Users-Service\src\test\java\com\quest\vms\dto\MockRestDto.java
+D:\VMS-Development\VMS-Users-Service\src\test\java\com\quest\vms\parameterizedtests\UserTest.java
+D:\VMS-Development\VMS-Users-Service\src\test\java\com\quest\vms\dto\JunitInputDto.java

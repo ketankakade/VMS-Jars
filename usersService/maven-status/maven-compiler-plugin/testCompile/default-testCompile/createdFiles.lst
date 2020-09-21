@@ -1,3 +1,5 @@
-com\quest\vms\service\UserServiceTest.class
+com\quest\vms\dto\JunitInputDto.class
+com\quest\vms\dto\MockRestDto.class
+com\quest\vms\utils\TestType.class
 com\quest\vms\VmsUsersMicroserviceApplicationTests.class
-com\quest\vms\controller\UserControllerTest.class
+com\quest\vms\parameterizedtests\UserTest.class

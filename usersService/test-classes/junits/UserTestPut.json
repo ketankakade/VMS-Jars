@@ -1,0 +1,82 @@
+[
+  {
+    "restClass": "com.quest.vms.controllers.UserController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/user/user",
+    "requestMethod": "PUT",
+    "mockMethods": [
+      
+    ],
+    "body": {
+    "id":"1",
+      "firstName": "vina1y",
+      "lastName": "jadhavdwwd1",
+      "primaryContactNumber": "9023438402",
+      "primaryEmailId": "zzabdddcw32323232323232@gmailcom",
+      "userCategory": "admin"
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+    "restClass": "com.quest.vms.controllers.UserController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/user/user",
+    "requestMethod": "PUT",
+    "mockMethods": [
+      
+    ],
+    "body": {
+    "id":"2",
+      "firstName": "vina1y",
+      "lastName": "jadhavdwwd1",
+      "primaryContactNumber": "9023438402",
+      "primaryEmailId": "zzabdddcw32323232323232@gmailcom",
+      "userCategory": "admin"
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+"restClass": "com.quest.vms.controllers.UserController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/user/user",
+    "requestMethod": "POST",
+    "mockMethods": [
+    ],
+    "body": {
+      "firstName": "vina1y",
+      "lastName": "jadhavdwwd1",
+      "primaryContactNumber": "9023438402",
+      "primaryEmailId": "zzabdddcw32323232323232@gmailcom",
+      "userCategory": "admin"
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+    "restClass": "com.quest.vms.controllers.UserController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/user/user",
+    "requestMethod": "PUT",
+    "mockMethods": [
+    ],
+    "body": {
+      "firstName": "vina1y",
+      "lastName": "jadhavdwwd1",
+      "primaryContactNumber": "9023438402",
+      "primaryEmailId": "zzabdddcw32323232323232@gmailcom",
+      "userCategory": "admin"
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+}
+]

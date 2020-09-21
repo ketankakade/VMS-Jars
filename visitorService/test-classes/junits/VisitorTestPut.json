@@ -1,0 +1,202 @@
+[
+  {
+    "restClass": "com.quest.vms.controller.VisitorController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/visitor/visitor",
+    "requestMethod": "PUT",
+    "mockMethods": [
+      
+    ],
+    "body": {
+    "id":"1",
+      "contactNo": 9933232000,
+"email": "Ok12@gmail.com",
+"firstName": "Shiva",
+"idProof": "pan",
+"lastName": "Narune",
+"visitorType": "stringok",
+"visits": [
+{
+"visitDate": "2019-03-03",
+"approvalStatus": "approved",
+"placeOfVisit": "string",
+"reasonForVisit": "string",
+"isVisitCompleted": 0,
+"contactPerson": {
+"contactNo": 98998882277,
+"email": "str22g1dsdgmail.com",
+"firstName": "xstring",
+"lastName": "zstring"
+},
+"devices": [
+{
+"deviceMake": "string",
+"serialNumber": "string",
+"deviceType": "string",
+"isSecurityCheckDone":"True",
+"securityFlaws":"Ok"
+}
+],
+"timeSlot": {
+"endDate": "2019-01-01",
+"startDate": "2019-01-01"
+}
+}
+]
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+    "restClass": "com.quest.vms.controller.VisitorController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/visitor/visitor",
+    "requestMethod": "PUT",
+    "mockMethods": [
+      
+    ],
+    "body": {
+    "id":"2",
+      "contactNo": 9933232000,
+"email": "Ok12@gmail.com",
+"firstName": "Shiva",
+"idProof": "pan",
+"lastName": "Narune",
+"visitorType": "stringok",
+"visits": [
+{
+"visitDate": "2019-03-03",
+"approvalStatus": "approved",
+"placeOfVisit": "string",
+"reasonForVisit": "string",
+"isVisitCompleted": 0,
+"contactPerson": {
+"contactNo": 98998882277,
+"email": "str22g1dsdgmail.com",
+"firstName": "xstring",
+"lastName": "zstring"
+},
+"devices": [
+{
+"deviceMake": "string",
+"serialNumber": "string",
+"deviceType": "string",
+"isSecurityCheckDone":"True",
+"securityFlaws":"Ok"
+}
+],
+"timeSlot": {
+"endDate": "2019-01-01",
+"startDate": "2019-01-01"
+}
+}
+]
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+"restClass": "com.quest.vms.controller.VisitorController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/visitor/visitor",
+    "requestMethod": "POST",
+    "mockMethods": [
+    ],
+    "body": {
+      "contactNo": 9933232000,
+"email": "Ok12@gmail.com",
+"firstName": "Shiva",
+"idProof": "pan",
+"lastName": "Narune",
+"visitorType": "stringok",
+"visits": [
+{
+"visitDate": "2019-03-03",
+"approvalStatus": "approved",
+"placeOfVisit": "string",
+"reasonForVisit": "string",
+"isVisitCompleted": 0,
+"contactPerson": {
+"contactNo": 98998882277,
+"email": "str22g1dsdgmail.com",
+"firstName": "xstring",
+"lastName": "zstring"
+},
+"devices": [
+{
+"deviceMake": "string",
+"serialNumber": "string",
+"deviceType": "string",
+"isSecurityCheckDone":"True",
+"securityFlaws":"Ok"
+}
+],
+"timeSlot": {
+"endDate": "2019-01-01",
+"startDate": "2019-01-01"
+}
+}
+]
+
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+    "restClass": "com.quest.vms.controller.VisitorController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/visitor/visitor",
+    "requestMethod": "PUT",
+    "mockMethods": [
+    ],
+    "body": {
+      "contactNo": 9933232000,
+"email": "Ok12@gmail.com",
+"firstName": "Shiva",
+"idProof": "pan",
+"lastName": "Narune",
+"visitorType": "stringok",
+"visits": [
+{
+"visitDate": "2019-03-03",
+"approvalStatus": "approved",
+"placeOfVisit": "string",
+"reasonForVisit": "string",
+"isVisitCompleted": 0,
+"contactPerson": {
+"contactNo": 98998882277,
+"email": "str22g1dsdgmail.com",
+"firstName": "xstring",
+"lastName": "zstring"
+},
+"devices": [
+{
+"deviceMake": "string",
+"serialNumber": "string",
+"deviceType": "string",
+"isSecurityCheckDone":"True",
+"securityFlaws":"Ok"
+}
+],
+"timeSlot": {
+"endDate": "2019-01-01",
+"startDate": "2019-01-01"
+}
+}
+]
+
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+}
+]

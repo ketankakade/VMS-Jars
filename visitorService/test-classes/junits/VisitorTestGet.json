@@ -1,0 +1,66 @@
+[
+  {
+    "restClass": "com.quest.vms.controller.VisitorController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/visitor/visitor/2",
+    "requestMethod": "GET",
+    "mockMethods": [
+      
+    ],
+    "body": {
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+    "restClass": "com.quest.vms.controller.VisitorController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/visitor/visitor/4",
+    "requestMethod": "GET",
+    "mockMethods": [
+      
+    ],
+    "body": {
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+"restClass": "com.quest.vms.controllers.VisitorController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/visitor/visitor/5",
+    "requestMethod": "GET",
+    "mockMethods": [
+      
+    ],
+    "body": {
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+    "restClass": "com.quest.vms.controller.VisitorController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/visitor/visitor/1",
+    "requestMethod": "GET",
+    "mockMethods": [
+      
+    ],
+    "body": {
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+}
+]

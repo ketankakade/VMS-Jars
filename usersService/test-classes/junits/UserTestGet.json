@@ -1,0 +1,66 @@
+[
+  {
+    "restClass": "com.quest.vms.controllers.UserController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/user/user/2",
+    "requestMethod": "GET",
+    "mockMethods": [
+      
+    ],
+    "body": {
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+    "restClass": "com.quest.vms.controllers.UserController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/user/user/4",
+    "requestMethod": "GET",
+    "mockMethods": [
+      
+    ],
+    "body": {
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+"restClass": "com.quest.vms.controllers.UserController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/user/user/5",
+    "requestMethod": "GET",
+    "mockMethods": [
+      
+    ],
+    "body": {
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+  },
+  {
+    "restClass": "com.quest.vms.controllers.UserController",
+    "type": "REST_API_TEST",
+    "expectedStatus": 200,
+    "requestEndpoint": "/user/user/1",
+    "requestMethod": "GET",
+    "mockMethods": [
+      
+    ],
+    "body": {
+      
+    },
+    "enabled": true,
+    "contentType": "application/json",
+    "acceptLanguage": "application/json;charset=UTF-8"
+}
+]
