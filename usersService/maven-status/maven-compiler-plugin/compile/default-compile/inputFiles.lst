@@ -7,6 +7,7 @@ D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\UserDTO.jav
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\entity\TempAccess.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\VmsUsersMicroserviceApplication.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\config\Swagger2Config.java
+D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\EmployeesCountDTO.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\exception\ServiceException.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\common\utils\VmsConstants.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\OfficeLocationsDTO.java
