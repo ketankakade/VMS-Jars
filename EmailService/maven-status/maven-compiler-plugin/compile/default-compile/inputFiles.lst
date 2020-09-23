@@ -1,6 +1,6 @@
-C:\Users\ketan\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\VMS-EmailOTP-Service\src\main\java\com\email\service\EmailService.java
-C:\Users\ketan\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\VMS-EmailOTP-Service\src\main\java\com\email\service\OtpService.java
-C:\Users\ketan\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\VMS-EmailOTP-Service\src\main\java\com\email\controller\OtpController.java
-C:\Users\ketan\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\VMS-EmailOTP-Service\src\main\java\com\email\dto\OtpDTO.java
-C:\Users\ketan\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\VMS-EmailOTP-Service\src\main\java\com\email\utils\GenericResponse.java
-C:\Users\ketan\Documents\workspace-spring-tool-suite-4-4.7.0.RELEASE\VMS-EmailOTP-Service\src\main\java\com\email\VmsEmailOtpServiceApplication.java
+D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\VmsEmailOtpServiceApplication.java
+D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\service\EmailService.java
+D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\service\OtpService.java
+D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\dto\OtpDTO.java
+D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\controller\OtpController.java
+D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\utils\GenericResponse.java
