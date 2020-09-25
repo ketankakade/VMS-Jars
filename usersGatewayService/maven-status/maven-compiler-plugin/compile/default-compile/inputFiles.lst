@@ -1,6 +1,7 @@
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\EmployeeRecordsDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\KioskDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service\GatewayService.java
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\EmployeesCountDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\VmsUsersGatewayMicroserviceApplication.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\UserDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\controller\KioskGatewayController.java
