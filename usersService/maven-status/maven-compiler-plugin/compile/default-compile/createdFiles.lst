@@ -15,6 +15,8 @@ com\quest\vms\entity\User$UserBuilder.class
 com\quest\vms\dao\KioskDAO.class
 com\quest\vms\config\Swagger2Config.class
 com\quest\vms\entity\User.class
+com\quest\vms\config\ServerConfig.class
+com\quest\vms\config\ServerConfig$1.class
 com\quest\vms\exception\RecordNotFoundException.class
 com\quest\vms\dao\KioskDAOImpl.class
 com\quest\vms\dto\KioskDTO.class
@@ -26,6 +28,7 @@ com\quest\vms\controllers\KioskController.class
 com\quest\vms\repository\TempAccessRepository.class
 com\quest\vms\dto\TempAccessDTO.class
 com\quest\vms\exception\InternalServerError.class
+com\quest\vms\config\SecurityConfig.class
 com\quest\vms\entity\Kiosk$KioskBuilder.class
 com\quest\vms\dto\UserDTO$UserDTOBuilder.class
 com\quest\vms\repository\KioskRepository.class
