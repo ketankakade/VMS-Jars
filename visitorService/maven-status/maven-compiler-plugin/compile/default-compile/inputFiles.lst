@@ -9,6 +9,7 @@ D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\common\utils\Erro
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dto\VisitorsCountDTO.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\repository\OtpRepository.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\common\utils\VmsConstants.java
+D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dto\EmployeeRecordsDTO.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\entity\TimeSlot.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dto\VisitDTO.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\entity\OTP.java
