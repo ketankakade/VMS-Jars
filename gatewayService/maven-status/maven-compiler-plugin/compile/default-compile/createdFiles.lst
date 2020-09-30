@@ -23,6 +23,7 @@ com\quest\vms\common\utils\ErrorCodes.class
 com\quest\vms\dto\VisitDTO.class
 com\quest\vms\dto\VisitDTO$VisitDTOBuilder.class
 com\quest\vms\swaggerConfig\Swagger2Config.class
+com\quest\vms\swaggerConfig\ServerConfig$1.class
 com\quest\vms\common\utils\GenericResponse$GenericResponseBuilder.class
 com\quest\vms\dto\TimeSlotDTO.class
 com\quest\vms\dto\ValidateOtpDTO$ValidateOtpDTOBuilder.class
