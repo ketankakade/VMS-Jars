@@ -7,6 +7,7 @@ com\quest\vms\common\utils\VmsConstants.class
 com\quest\vms\service\KioskGatewayService.class
 com\quest\vms\swaggerConfig\ServerConfig.class
 com\quest\vms\service\GatewayServiceImpl.class
+com\quest\vms\dto\OfficeLocationsDTO$OfficeLocationsDTOBuilder.class
 com\quest\vms\dto\EmployeeRecordsDTO$EmployeeRecordsDTOBuilder.class
 com\quest\vms\dto\EmployeeRecordsDTO.class
 com\quest\vms\dto\UserDTO$UserDTOBuilder.class
@@ -18,6 +19,7 @@ com\quest\vms\VmsUsersGatewayMicroserviceApplication.class
 com\quest\vms\swaggerConfig\SecurityConfig.class
 com\quest\vms\common\utils\ErrorCodes.class
 com\quest\vms\swaggerConfig\Swagger2Config.class
+com\quest\vms\dto\OfficeLocationsDTO.class
 com\quest\vms\swaggerConfig\ServerConfig$1.class
 com\quest\vms\common\utils\GenericResponse$GenericResponseBuilder.class
 com\quest\vms\exception\RestExceptionHandler.class
