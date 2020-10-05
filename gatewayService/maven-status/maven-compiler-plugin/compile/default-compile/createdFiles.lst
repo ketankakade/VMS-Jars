@@ -7,7 +7,6 @@ com\quest\vms\dto\OtpDTO.class
 com\quest\vms\exception\InternalServerError.class
 com\quest\vms\VmsWrapperApplication.class
 com\quest\vms\common\utils\VmsConstants.class
-com\quest\vms\swaggerConfig\ServerConfig.class
 com\quest\vms\service\GatewayServiceImpl.class
 com\quest\vms\dto\DeviceDTO$DeviceDTOBuilder.class
 com\quest\vms\dto\TimeSlotDTO$TimeSlotDTOBuilder.class
@@ -18,12 +17,10 @@ com\quest\vms\dto\VisitorDTO$VisitorDTOBuilder.class
 com\quest\vms\dto\VisitorsCountDTO$VisitorsCountDTOBuilder.class
 com\quest\vms\common\utils\GenericResponse.class
 com\quest\vms\exception\ServiceException.class
-com\quest\vms\swaggerConfig\SecurityConfig.class
 com\quest\vms\common\utils\ErrorCodes.class
 com\quest\vms\dto\VisitDTO.class
 com\quest\vms\dto\VisitDTO$VisitDTOBuilder.class
 com\quest\vms\swaggerConfig\Swagger2Config.class
-com\quest\vms\swaggerConfig\ServerConfig$1.class
 com\quest\vms\common\utils\GenericResponse$GenericResponseBuilder.class
 com\quest\vms\dto\TimeSlotDTO.class
 com\quest\vms\dto\ValidateOtpDTO$ValidateOtpDTOBuilder.class
