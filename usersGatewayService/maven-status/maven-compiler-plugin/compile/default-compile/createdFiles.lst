@@ -12,12 +12,14 @@ com\quest\vms\dto\EmployeeRecordsDTO.class
 com\quest\vms\dto\UserDTO$UserDTOBuilder.class
 com\quest\vms\service\GatewayService.class
 com\quest\vms\common\utils\GenericResponse.class
+com\quest\vms\dto\EmployeesCountDTO.class
 com\quest\vms\exception\ServiceException.class
 com\quest\vms\dto\KioskDTO$KioskDTOBuilder.class
 com\quest\vms\VmsUsersGatewayMicroserviceApplication.class
 com\quest\vms\common\utils\ErrorCodes.class
 com\quest\vms\swaggerConfig\Swagger2Config.class
 com\quest\vms\dto\OfficeLocationsDTO.class
+com\quest\vms\dto\EmployeesCountDTO$EmployeesCountDTOBuilder.class
 com\quest\vms\common\utils\GenericResponse$GenericResponseBuilder.class
 com\quest\vms\exception\RestExceptionHandler.class
 com\quest\vms\dto\KioskDTO.class
