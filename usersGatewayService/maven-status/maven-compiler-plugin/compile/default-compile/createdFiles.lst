@@ -5,7 +5,6 @@ com\quest\vms\dto\TempAccessDTO.class
 com\quest\vms\exception\InternalServerError.class
 com\quest\vms\common\utils\VmsConstants.class
 com\quest\vms\service\KioskGatewayService.class
-com\quest\vms\swaggerConfig\ServerConfig.class
 com\quest\vms\service\GatewayServiceImpl.class
 com\quest\vms\dto\OfficeLocationsDTO$OfficeLocationsDTOBuilder.class
 com\quest\vms\dto\EmployeeRecordsDTO$EmployeeRecordsDTOBuilder.class
@@ -18,12 +17,10 @@ com\quest\vms\dto\EmployeesCountDTO.class
 com\quest\vms\exception\ServiceException.class
 com\quest\vms\dto\KioskDTO$KioskDTOBuilder.class
 com\quest\vms\VmsUsersGatewayMicroserviceApplication.class
-com\quest\vms\swaggerConfig\SecurityConfig.class
 com\quest\vms\common\utils\ErrorCodes.class
 com\quest\vms\swaggerConfig\Swagger2Config.class
 com\quest\vms\dto\OfficeLocationsDTO.class
 com\quest\vms\dto\EmployeesCountDTO$EmployeesCountDTOBuilder.class
-com\quest\vms\swaggerConfig\ServerConfig$1.class
 com\quest\vms\common\utils\GenericResponse$GenericResponseBuilder.class
 com\quest\vms\exception\RestExceptionHandler.class
 com\quest\vms\dto\KioskDTO.class
