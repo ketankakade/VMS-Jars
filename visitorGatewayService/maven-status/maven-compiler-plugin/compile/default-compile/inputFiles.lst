@@ -13,6 +13,7 @@ D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\exception
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\TimeSlotDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\VisitDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\common\utils\ErrorCodes.java
+D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\EmployeeRecordsDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\OtpDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\VisitorsCountDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\SecurityConfig.java

@@ -30,6 +30,7 @@ D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dto\VisitorDTO.ja
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\exception\InternalServerError.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\exception\DBException.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\swaggerConfig\Swagger2Config.java
+D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\repository\ContactPersonRepository.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dao\VisitorDAOImpl.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\service\VisitorServiceImpl.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\entity\ContactPerson.java

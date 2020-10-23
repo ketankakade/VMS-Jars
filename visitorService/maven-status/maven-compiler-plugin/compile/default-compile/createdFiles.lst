@@ -27,6 +27,7 @@ com\quest\vms\service\VisitorService.class
 com\quest\vms\entity\Device$DeviceBuilder.class
 com\quest\vms\entity\Visit.class
 com\quest\vms\exception\InternalServerError.class
+com\quest\vms\repository\ContactPersonRepository.class
 com\quest\vms\service\FileStorageService.class
 com\quest\vms\entity\TimeSlot$TimeSlotBuilder.class
 com\quest\vms\dao\VisitorDAOImpl.class

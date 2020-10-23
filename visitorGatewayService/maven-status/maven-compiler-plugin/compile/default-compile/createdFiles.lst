@@ -12,6 +12,8 @@ com\quest\vms\service\GatewayServiceImpl.class
 com\quest\vms\dto\DeviceDTO$DeviceDTOBuilder.class
 com\quest\vms\dto\TimeSlotDTO$TimeSlotDTOBuilder.class
 com\quest\vms\VmsWrapperApplication$1.class
+com\quest\vms\dto\EmployeeRecordsDTO$EmployeeRecordsDTOBuilder.class
+com\quest\vms\dto\EmployeeRecordsDTO.class
 com\quest\vms\service\GatewayService.class
 com\quest\vms\dto\ContactPersonDTO.class
 com\quest\vms\dto\VisitorDTO$VisitorDTOBuilder.class
