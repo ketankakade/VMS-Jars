@@ -1,9 +1,9 @@
+com\email\controller\EmailController.class
 com\email\service\EmailService.class
 com\email\utils\GenericResponse$GenericResponseBuilder.class
 com\email\dto\OtpDTO.class
 com\email\service\OtpService.class
 com\email\dto\OtpDTO$OtpDTOBuilder.class
-com\email\controller\OtpController.class
 com\email\service\OtpService$1.class
 com\email\utils\GenericResponse.class
 com\email\VmsEmailOtpServiceApplication.class

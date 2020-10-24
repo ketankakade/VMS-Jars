@@ -2,5 +2,5 @@ D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\VmsEmailOtpServiceAp
 D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\service\EmailService.java
 D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\service\OtpService.java
 D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\dto\OtpDTO.java
-D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\controller\OtpController.java
+D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\controller\EmailController.java
 D:\VMS-Development\EmailOTP-Service\src\main\java\com\email\utils\GenericResponse.java
