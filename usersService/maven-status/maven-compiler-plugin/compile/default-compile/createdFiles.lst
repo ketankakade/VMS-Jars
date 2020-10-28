@@ -2,6 +2,8 @@ com\quest\vms\service\KioskServiceImpl.class
 com\quest\vms\service\UserServiceImpl.class
 com\quest\vms\entity\Kiosk.class
 com\quest\vms\common\utils\VmsConstants.class
+com\quest\vms\dto\UploadFileResponse.class
+com\quest\vms\exception\FileStorageException.class
 com\quest\vms\entity\Office_Locations$Office_LocationsBuilder.class
 com\quest\vms\controllers\UserController.class
 com\quest\vms\dto\OfficeLocationsDTO$OfficeLocationsDTOBuilder.class
@@ -14,6 +16,7 @@ com\quest\vms\entity\EmployeeRecords.class
 com\quest\vms\entity\User$UserBuilder.class
 com\quest\vms\dao\KioskDAO.class
 com\quest\vms\config\Swagger2Config.class
+com\quest\vms\dto\UploadFileResponse$UploadFileResponseBuilder.class
 com\quest\vms\entity\User.class
 com\quest\vms\exception\RecordNotFoundException.class
 com\quest\vms\dao\KioskDAOImpl.class
@@ -26,6 +29,7 @@ com\quest\vms\controllers\KioskController.class
 com\quest\vms\repository\TempAccessRepository.class
 com\quest\vms\dto\TempAccessDTO.class
 com\quest\vms\exception\InternalServerError.class
+com\quest\vms\service\FileStorageService.class
 com\quest\vms\entity\Kiosk$KioskBuilder.class
 com\quest\vms\dto\UserDTO$UserDTOBuilder.class
 com\quest\vms\repository\KioskRepository.class
@@ -33,6 +37,7 @@ com\quest\vms\common\utils\GenericResponse.class
 com\quest\vms\entity\TempAccess$TempAccessBuilder.class
 com\quest\vms\dto\EmployeesCountDTO.class
 com\quest\vms\exception\ServiceException.class
+com\quest\vms\config\FileStorageProperties.class
 com\quest\vms\entity\Office_Locations.class
 com\quest\vms\dto\KioskDTO$KioskDTOBuilder.class
 com\quest\vms\common\utils\ErrorCodes.class

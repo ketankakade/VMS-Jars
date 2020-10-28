@@ -1,6 +1,7 @@
 com\quest\vms\dto\OtpDTO$OtpDTOBuilder.class
 com\quest\vms\controller\GatewayController.class
 com\quest\vms\dto\VisitorDTO.class
+com\quest\vms\service\GatewayServiceImpl$2.class
 com\quest\vms\dto\VisitorsCountDTO.class
 com\quest\vms\dto\ValidateOtpDTO.class
 com\quest\vms\dto\OtpDTO.class
@@ -19,6 +20,7 @@ com\quest\vms\dto\ContactPersonDTO.class
 com\quest\vms\dto\VisitorDTO$VisitorDTOBuilder.class
 com\quest\vms\dto\VisitorsCountDTO$VisitorsCountDTOBuilder.class
 com\quest\vms\common\utils\GenericResponse.class
+com\quest\vms\service\GatewayServiceImpl$1.class
 com\quest\vms\exception\ServiceException.class
 com\quest\vms\swaggerConfig\SecurityConfig.class
 com\quest\vms\common\utils\ErrorCodes.class

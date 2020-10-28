@@ -14,6 +14,7 @@ com\quest\vms\dto\UserDTO$UserDTOBuilder.class
 com\quest\vms\service\GatewayService.class
 com\quest\vms\VmsUsersGatewayMicroserviceApplication$1.class
 com\quest\vms\common\utils\GenericResponse.class
+com\quest\vms\service\GatewayServiceImpl$1.class
 com\quest\vms\dto\EmployeesCountDTO.class
 com\quest\vms\exception\ServiceException.class
 com\quest\vms\dto\KioskDTO$KioskDTOBuilder.class

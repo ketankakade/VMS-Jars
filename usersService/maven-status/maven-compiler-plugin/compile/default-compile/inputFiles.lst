@@ -5,6 +5,7 @@ D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\service\UserSer
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\EmployeeRecordsDTO.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\UserDTO.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\entity\TempAccess.java
+D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\service\FileStorageService.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\VmsUsersMicroserviceApplication.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\config\Swagger2Config.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\EmployeesCountDTO.java
@@ -15,6 +16,7 @@ D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\repository\User
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dao\KioskDAO.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\controllers\UserController.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dao\UserDAO.java
+D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\config\FileStorageProperties.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\KioskDTO.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\service\KioskService.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\common\utils\GenericResponse.java
@@ -26,8 +28,10 @@ D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\service\KioskSe
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\common\utils\ErrorCodes.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\controllers\KioskController.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\repository\EmployeeRecordsRepository.java
+D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\UploadFileResponse.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\entity\User.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\exception\DBException.java
+D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\exception\FileStorageException.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\service\UserService.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dao\KioskDAOImpl.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\config\ServerConfig.java
