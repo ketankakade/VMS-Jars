@@ -3,6 +3,7 @@ D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\common\ut
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\common\utils\GenericResponse.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\ContactPersonDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\exception\ServiceException.java
+D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\UploadFileResponse.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\VisitorDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\Swagger2Config.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\service\GatewayServiceImpl.java
