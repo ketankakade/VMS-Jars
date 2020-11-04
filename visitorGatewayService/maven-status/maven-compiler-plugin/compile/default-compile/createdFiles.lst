@@ -23,6 +23,8 @@ com\quest\vms\dto\VisitorsCountDTO$VisitorsCountDTOBuilder.class
 com\quest\vms\common\utils\GenericResponse.class
 com\quest\vms\service\GatewayServiceImpl$1.class
 com\quest\vms\exception\ServiceException.class
+com\quest\vms\dto\DropdownDataDTO.class
+com\quest\vms\dto\DropdownDataDTO$DropdownDataDTOBuilder.class
 com\quest\vms\swaggerConfig\SecurityConfig.class
 com\quest\vms\common\utils\ErrorCodes.class
 com\quest\vms\dto\VisitDTO.class

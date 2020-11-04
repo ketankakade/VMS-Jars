@@ -15,6 +15,7 @@ com\quest\vms\dao\UserDAOImpl.class
 com\quest\vms\entity\EmployeeRecords.class
 com\quest\vms\entity\User$UserBuilder.class
 com\quest\vms\dao\KioskDAO.class
+com\quest\vms\dto\DropdownDataDTO$DropdownDataDTOBuilder.class
 com\quest\vms\config\Swagger2Config.class
 com\quest\vms\dto\UploadFileResponse$UploadFileResponseBuilder.class
 com\quest\vms\entity\User.class
@@ -37,6 +38,7 @@ com\quest\vms\common\utils\GenericResponse.class
 com\quest\vms\entity\TempAccess$TempAccessBuilder.class
 com\quest\vms\dto\EmployeesCountDTO.class
 com\quest\vms\exception\ServiceException.class
+com\quest\vms\dto\DropdownDataDTO.class
 com\quest\vms\config\FileStorageProperties.class
 com\quest\vms\entity\Office_Locations.class
 com\quest\vms\dto\KioskDTO$KioskDTOBuilder.class

@@ -10,6 +10,7 @@ D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\service\G
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\ValidateOtpDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\ServerConfig.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\DeviceDTO.java
+D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\DropdownDataDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\exception\InternalServerError.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\TimeSlotDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\VisitDTO.java

@@ -35,6 +35,7 @@ D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\exception\FileS
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\service\UserService.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dao\KioskDAOImpl.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\config\ServerConfig.java
+D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\DropdownDataDTO.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\exception\InternalServerError.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\TempAccessDTO.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\repository\TempAccessRepository.java

@@ -15,6 +15,7 @@ D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\entity\TimeSlot.j
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\repository\VisitRepository.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dto\VisitDTO.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\entity\OTP.java
+D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dto\DropdownDataDTO.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dao\VisitorDAO.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\entity\Visitor.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\exception\FileStorageException.java

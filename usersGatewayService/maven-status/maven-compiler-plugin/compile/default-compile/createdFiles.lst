@@ -17,6 +17,8 @@ com\quest\vms\common\utils\GenericResponse.class
 com\quest\vms\service\GatewayServiceImpl$1.class
 com\quest\vms\dto\EmployeesCountDTO.class
 com\quest\vms\exception\ServiceException.class
+com\quest\vms\dto\DropdownDataDTO.class
+com\quest\vms\dto\DropdownDataDTO$DropdownDataDTOBuilder.class
 com\quest\vms\dto\KioskDTO$KioskDTOBuilder.class
 com\quest\vms\VmsUsersGatewayMicroserviceApplication.class
 com\quest\vms\swaggerConfig\SecurityConfig.class
