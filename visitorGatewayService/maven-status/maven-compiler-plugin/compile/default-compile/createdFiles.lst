@@ -18,6 +18,8 @@ com\quest\vms\dto\EmployeeRecordsDTO$EmployeeRecordsDTOBuilder.class
 com\quest\vms\dto\EmployeeRecordsDTO.class
 com\quest\vms\service\GatewayService.class
 com\quest\vms\dto\ContactPersonDTO.class
+com\quest\vms\dto\UploadImageRequest$UploadImageRequestBuilder.class
+com\quest\vms\dto\UploadImageRequest.class
 com\quest\vms\dto\VisitorDTO$VisitorDTOBuilder.class
 com\quest\vms\dto\VisitorsCountDTO$VisitorsCountDTOBuilder.class
 com\quest\vms\common\utils\GenericResponse.class
