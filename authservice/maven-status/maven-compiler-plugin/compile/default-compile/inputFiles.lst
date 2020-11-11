@@ -7,6 +7,7 @@ D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\ques
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\service\UserDetailsImpl.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\dto\MessageResponse.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\common\utils\ErrorCodes.java
+D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\repository\PermissionRepository.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\entity\Role.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\common\utils\VmsConstants.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\entity\User.java

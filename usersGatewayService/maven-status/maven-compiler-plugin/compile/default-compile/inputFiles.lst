@@ -10,8 +10,10 @@ D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\DropdownDataDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\OfficeLocationsDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service\KioskGatewayService.java
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\utils\ERole.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\Swagger2Config.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\utils\VmsConstants.java
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\Permissions.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\JwtResponse.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\KioskDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\ServerConfig.java
