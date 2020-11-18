@@ -15,6 +15,7 @@ com\quest\vms\dto\VisitorDTO$VisitorDTOBuilder.class
 com\quest\vms\dto\VisitorsCountDTO$VisitorsCountDTOBuilder.class
 com\quest\vms\swaggerConfig\FileStorageProperties.class
 com\quest\vms\dto\DropdownDataDTO$DropdownDataDTOBuilder.class
+com\quest\vms\common\utils\ImageUtils.class
 com\quest\vms\dto\UploadFileResponse$UploadFileResponseBuilder.class
 com\quest\vms\entity\OTP.class
 com\quest\vms\swaggerConfig\Swagger2Config.class

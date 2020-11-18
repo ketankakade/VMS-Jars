@@ -36,4 +36,5 @@ D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dao\VisitorDAOImp
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\service\VisitorServiceImpl.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\entity\ContactPerson.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\dto\ContactPersonDTO.java
+D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\common\utils\ImageUtils.java
 D:\VMS-Development\Visitor-Service\src\main\java\com\quest\vms\service\VisitorService.java
