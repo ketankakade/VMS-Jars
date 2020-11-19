@@ -3,6 +3,7 @@ D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\EmployeesCountDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\VmsUsersGatewayMicroserviceApplication.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\UserDTO.java
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\security\AuthEntryPointJwt.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service\GatewayServiceImpl.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\exception\RestExceptionHandler.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\controller\GatewayController.java
@@ -11,6 +12,7 @@ D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\Dro
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\OfficeLocationsDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service\KioskGatewayService.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\utils\ERole.java
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\security\AuthTokenFilter.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\Swagger2Config.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\utils\VmsConstants.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\Permissions.java
@@ -18,6 +20,7 @@ D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\Jwt
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\KioskDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\ServerConfig.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\controller\KioskGatewayController.java
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\security\JwtUtils.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\MessageResponse.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\exception\InternalServerError.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\exception\ServiceException.java

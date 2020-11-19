@@ -2,9 +2,11 @@ D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\Uploa
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\common\utils\GenericResponse.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\ContactPersonDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\exception\ServiceException.java
+D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\security\AuthTokenFilter.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\UploadFileResponse.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\VisitorDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\service\GatewayServiceImpl.java
+D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\security\JwtUtils.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\DropdownDataDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\exception\InternalServerError.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\TimeSlotDTO.java
@@ -13,6 +15,7 @@ D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\Emplo
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\OtpDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\VisitorsCountDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\SecurityConfig.java
+D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\security\AuthEntryPointJwt.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\VmsWrapperApplication.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\common\utils\VmsConstants.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\Swagger2Config.java
