@@ -9,6 +9,7 @@ D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\service\G
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\security\JwtUtils.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\DropdownDataDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\exception\InternalServerError.java
+D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\common\utils\VmsResponse.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\TimeSlotDTO.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\common\utils\ErrorCodes.java
 D:\VMS-Development\Visitor-Gateway-Service\src\main\java\com\quest\vms\dto\EmployeeRecordsDTO.java

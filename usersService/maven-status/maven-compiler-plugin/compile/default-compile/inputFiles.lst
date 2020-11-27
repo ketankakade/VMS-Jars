@@ -5,6 +5,7 @@ D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\service\UserSer
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\EmployeeRecordsDTO.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\dto\UserDTO.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\entity\TempAccess.java
+D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\common\utils\VmsResponse.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\service\FileStorageService.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\VmsUsersMicroserviceApplication.java
 D:\VMS-Development\VMS-Users-Service\src\main\java\com\quest\vms\config\Swagger2Config.java

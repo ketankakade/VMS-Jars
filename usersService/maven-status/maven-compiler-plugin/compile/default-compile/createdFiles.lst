@@ -11,6 +11,7 @@ com\quest\vms\dto\EmployeeRecordsDTO$EmployeeRecordsDTOBuilder.class
 com\quest\vms\service\KioskService.class
 com\quest\vms\dao\UserDAO.class
 com\quest\vms\dto\EmployeeRecordsDTO.class
+com\quest\vms\common\utils\VmsResponse.class
 com\quest\vms\dao\UserDAOImpl.class
 com\quest\vms\entity\EmployeeRecords.class
 com\quest\vms\entity\User$UserBuilder.class
@@ -43,6 +44,7 @@ com\quest\vms\config\FileStorageProperties.class
 com\quest\vms\entity\Office_Locations.class
 com\quest\vms\dto\KioskDTO$KioskDTOBuilder.class
 com\quest\vms\common\utils\ErrorCodes.class
+com\quest\vms\common\utils\VmsResponse$VmsResponseBuilder.class
 com\quest\vms\dto\OfficeLocationsDTO.class
 com\quest\vms\entity\TempAccess.class
 com\quest\vms\repository\EmployeeRecordsRepository.class

@@ -6,6 +6,7 @@ D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\Use
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\security\AuthEntryPointJwt.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service\GatewayServiceImpl.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\exception\RestExceptionHandler.java
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\Role.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\controller\GatewayController.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\utils\ErrorCodes.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\DropdownDataDTO.java
@@ -28,6 +29,7 @@ D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\TempAccessDTO.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\service\KioskGatewayServiceImpl.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\swaggerConfig\SecurityConfig.java
+D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\common\utils\VmsResponse.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\LoginRequest.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\UploadFileResponse.java
 D:\VMS-Development\VMS-Users-Gateway-Service\src\main\java\com\quest\vms\dto\SignupRequest.java

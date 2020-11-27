@@ -11,7 +11,6 @@ D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\ques
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\entity\Role.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\common\utils\VmsConstants.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\entity\User.java
-D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\config\AuthEntryPointJwt.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\dao\UserDAOImpl.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\repository\TokenRepository.java
 D:\VMS-Development\Auth-Service\VMS-Authorization-Service\src\main\java\com\quest\vms\repository\RoleRepository.java

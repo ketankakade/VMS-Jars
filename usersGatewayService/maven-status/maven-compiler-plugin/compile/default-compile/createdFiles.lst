@@ -11,6 +11,8 @@ com\quest\vms\swaggerConfig\ServerConfig.class
 com\quest\vms\dto\OfficeLocationsDTO$OfficeLocationsDTOBuilder.class
 com\quest\vms\dto\EmployeeRecordsDTO$EmployeeRecordsDTOBuilder.class
 com\quest\vms\dto\EmployeeRecordsDTO.class
+com\quest\vms\common\utils\VmsResponse.class
+com\quest\vms\dto\Role.class
 com\quest\vms\common\utils\ERole.class
 com\quest\vms\dto\DropdownDataDTO$DropdownDataDTOBuilder.class
 com\quest\vms\VmsUsersGatewayMicroserviceApplication.class
@@ -24,6 +26,7 @@ com\quest\vms\dto\KioskDTO.class
 com\quest\vms\dto\TempAccessDTO$TempAccessDTOBuilder.class
 com\quest\vms\dto\UserDTO.class
 com\quest\vms\dto\LoginRequest.class
+com\quest\vms\dto\Role$RoleBuilder.class
 com\quest\vms\dto\TempAccessDTO.class
 com\quest\vms\exception\InternalServerError.class
 com\quest\vms\security\AuthTokenFilter.class
@@ -44,6 +47,7 @@ com\quest\vms\dto\DropdownDataDTO.class
 com\quest\vms\dto\JwtResponse.class
 com\quest\vms\dto\KioskDTO$KioskDTOBuilder.class
 com\quest\vms\common\utils\ErrorCodes.class
+com\quest\vms\common\utils\VmsResponse$VmsResponseBuilder.class
 com\quest\vms\dto\OfficeLocationsDTO.class
 com\quest\vms\dto\EmployeesCountDTO$EmployeesCountDTOBuilder.class
 com\quest\vms\common\utils\GenericResponse$GenericResponseBuilder.class
