@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.quest.vms.VmsUsersGatewayMicroserviceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.843 s - in com.quest.vms.VmsUsersGatewayMicroserviceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.808 s - in com.quest.vms.VmsUsersGatewayMicroserviceApplicationTests
